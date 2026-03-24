@@ -1,0 +1,14 @@
+{
+	"id": "MidasDeck",
+	"name": "MidasDeck",
+	"display_name": "Midas Deck",
+	"author": ["SkellingtonYGO"],
+	"description": "Midas Deck by SkellingtonYGO",
+	"prefix": "md",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "2596be",
+	"badge_text_colour": "ffffff",
+	"version": "1.0.0",
+	"dependencies": []
+}
